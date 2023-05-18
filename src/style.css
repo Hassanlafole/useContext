@@ -1,0 +1,15 @@
+.container{
+    width: 20%;
+}
+/* .content{
+    background-color: aqua;
+} */
+.content span{
+    background-color: rgb(16, 6, 83);
+    color: white;
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
